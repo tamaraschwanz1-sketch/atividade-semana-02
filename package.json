@@ -1,0 +1,12 @@
+{
+  "name": "atividade-catalogo-de-herois",
+  "version": "1.0.0",
+  "description": "Atividade prática de rotas, HTML com res.send() e parâmetros com req.params usando Node.js e Express.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
